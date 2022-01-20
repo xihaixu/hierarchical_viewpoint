@@ -8,7 +8,7 @@ data: the raw file for the corpus.
 
 expriment readme.txt: the expriment process of this article
 
-opinionExtraction-master: the source code for dependency parse for the corpus.
+dpforcorpus.zip: the source code for dependency parse for the corpus.
 
 hlda, hop and top2vec: the topic modeling source code for corpus.
 
