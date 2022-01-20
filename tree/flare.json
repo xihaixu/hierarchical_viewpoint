@@ -1,0 +1,158 @@
+{
+  "name": "HCQ \n as a treatment \n for COVID-19\n(19833)",
+  "children": [
+    {
+      "name": "Efficiency\n(7268)",
+      "children": [
+        {
+          "name": "??\n(5398)",
+          "children": [
+            {
+              "name": "Support\n(4218)",
+              "value": 17010,
+              "children": [
+                {
+                  "name": "The combination of hydroxychloroquine and azithromycin have been very effective in the\ntreatment of Coronavirus, including COVID-19."
+                }
+              ]
+            },
+            {
+              "name": "Oppose\n(1180)",
+              "value": 5842,
+              "children": [
+                {
+                  "name": "No Hydroxychloroquine benefit in randomized COVID-19 trial."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "??\n(1870)",
+          "children": [
+            {
+              "name": "Support\n(1203)",
+              "value": 17010,
+              "children": [
+                {
+                  "name": "viewpoint 1"
+                }
+              ]
+            },
+            {
+              "name": "Oppose\n(667)",
+              "value": 5842,
+              "children": [
+                {
+                  "name": "viewpoint 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Safety\n(7011)",
+      "children": [
+        {
+          "name": "??\n(5857)",
+          "children": [
+            {
+              "name": "Support\n(3265)",
+              "value": 17010,
+              "children": [
+                {
+                  "name": "Hydroxychloroquine is safe for most and works. The earlier it is given the better."
+                }
+              ]
+            },
+            {
+              "name": "Oppose\n(2592)",
+              "value": 5842,
+              "children": [
+                {
+                  "name": "Drug has not been shown to be safe for treating or preventing COVID-19."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "??\n(1154)",
+          "children": [
+            {
+              "name": "Support\n(789)",
+              "value": 17010,
+              "children": [
+                {
+                  "name": "viewpoint 1"
+                }
+              ]
+            },
+            {
+              "name": "Oppose\n(365)",
+              "value": 5842,
+              "children": [
+                {
+                  "name": "viewpoint 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Usage\n(5554)",
+      "children": [
+        {
+          "name": "??\n(4805)",
+          "children": [
+            {
+              "name": "Support\n(1981)",
+              "value": 17010,
+              "children": [
+                {
+                  "name": "Chloroquine administered Friday to ICU patient Friday in S Florida saves his life."
+                }
+              ]
+            },
+            {
+              "name": "Oppose\n(2824)",
+              "value": 5842,
+              "children": [
+                {
+                  "name": "Tons of people who take hydroxychloroquine daily for autoimmune disorders have gotten\nCovid19. So how is it a preventative med."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "??\n(749)",
+          "children": [
+            {
+              "name": "Support\n(512)",
+              "value": 17010,
+              "children": [
+                {
+                  "name": "viewpoint 1"
+                }
+              ]
+            },
+            {
+              "name": "Oppose\n(237)",
+              "value": 5842,
+              "children": [
+                {
+                  "name": "viewpoint 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
