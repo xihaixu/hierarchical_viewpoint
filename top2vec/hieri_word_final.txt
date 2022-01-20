@@ -1,0 +1,251 @@
+一个主题：
+['country' 'trust' 'hell' 'history' 'question' 'statement'
+ 'pharmaceutical' 'recovery' 'clorox' 'latest' 'shit' 'sense' 'authority'
+ 'deadly' 'danger' 'truth' 'team' 'today' 'second' 'attempt' 'american'
+ 'business' 'combat' 'disease' 'proved' 'claim' 'nation' 'fear' 'place'
+ 'positive' 'hate' 'ingrahamangle' 'long' 'issue' 'illness' 'finally'
+ 'prof' 'covidiot' 'hack' 'feeling' 'university' 'foxnews' 'prevents'
+ 'late' 'longer' 'good' 'story' 'wga' 'liar' 'safety']
+[8, 11, 5, 17, 10, 3, 1, 16, 12, 4, 14, 6, 15, 13, 9, 7, 2, 0]19833
+
+两个主题：
+['short' 'authority' 'covidiot' 'released' 'nation' 'matter' 'trust'
+ 'lost' 'prevents' 'history' 'smartnews' 'proved' 'claim' 'stock'
+ 'country' 'protect' 'illness' 'orange' 'clorox' 'question' 'fear'
+ 'pharmaceutical' 'telling' 'statement' 'story' 'child' 'snake' 'fighting'
+ 'hell' 'combat' 'politician' 'shortage' 'note' 'long' 'promoted'
+ 'breaking' 'late' 'latest' 'global' 'sense' 'ingrahamangle' 'unproven'
+ 'curing' 'force' 'truth' 'deadly' 'halted' 'huge' 'understand' 'place']
+[16, 12, 4, 14, 6, 15, 13, 9, 7, 2, 0] 14604
+['detroit' 'researcher' 'macrolide' 'infectious' 'stephen' 'experience'
+ 'interesting' 'dans' 'observational' 'credit' 'michigan' 'friday' 'ward'
+ 'chance' 'confirm' 'combination' 'traitement' 'seriously' 'pak' 'korea'
+ 'gateway' 'monday' 'diagnosed' 'hoax' 'evil' 'pretty' 'prevent' 'control'
+ 'liberal' 'zelenko' 'blame' 'survey' 'basically' 'treated' 'prescribe'
+ 'inject' 'promise' 'idea' 'mild' 'touted' 'ingraham' 'nursing'
+ 'hospitalized' 'ingesting' 'husband' 'needed' 'healthy' 'vladimir'
+ 'making' 'include']
+[8, 11, 5, 17, 10, 3, 1]5229
+
+三个主题：
+['trust' 'country' 'history' 'proved' 'clorox' 'question' 'authority'
+ 'covidiot' 'pharmaceutical' 'claim' 'lost' 'statement' 'nation' 'hell'
+ 'prevents' 'short' 'protect' 'fear' 'illness' 'released' 'combat' 'snake'
+ 'matter' 'story' 'orange' 'child' 'sense' 'stock' 'latest' 'long' 'note'
+ 'place' 'late' 'today' 'deadly' 'truth' 'ingrahamangle' 'recovery' 'hack'
+ 'business' 'second' 'breaking' 'disease' 'shit' 'fighting' 'telling'
+ 'politician' 'smartnews' 'wonder' 'politics']
+[2, 0]11474
+['detroit' 'researcher' 'infectious' 'macrolide' 'stephen' 'interesting'
+ 'experience' 'michigan' 'ward' 'observational' 'friday' 'credit'
+ 'combination' 'dans' 'seriously' 'chance' 'confirm' 'monday' 'traitement'
+ 'diagnosed' 'hoax' 'pretty' 'evil' 'control' 'prevent' 'gateway'
+ 'basically' 'idea' 'liberal' 'promise' 'treated' 'mild' 'pak' 'inject'
+ 'survey' 'blame' 'nursing' 'hospitalized' 'healthy' 'korea' 'zelenko'
+ 'ingesting' 'ingraham' 'include' 'prescribe' 'making' 'medical' 'husband'
+ 'touted' 'higher']
+[8, 11, 5, 17, 10, 3, 1]5229
+['rica' 'costa' 'controversial' 'rated' 'neil' 'poll' 'potent' 'versus'
+ 'backed' 'inhibitor' 'link' 'developed' 'watch' 'letter' 'website'
+ 'smartnews' 'blind' 'multinational' 'international' 'halted'
+ 'complication' 'global' 'shortage' 'standard' 'azithromycine' 'matter'
+ 'released' 'lack' 'wilson' 'short' 'concern' 'confirmed' 'clinical'
+ 'outcome' 'host' 'veteran' 'lied' 'pundit' 'fake' 'healthcare' 'telling'
+ 'order' 'news' 'stock' 'sars' 'helping' 'nation' 'authority' 'official'
+ 'antiviral']
+[16, 12, 4, 14, 6, 15, 13, 9, 7]3130
+
+
+四个主题：
+['authority' 'history' 'released' 'trust' 'matter' 'nation' 'country'
+ 'claim' 'prevents' 'orange' 'covidiot' 'proved' 'statement' 'question'
+ 'clorox' 'hell' 'lost' 'illness' 'short' 'pharmaceutical' 'fear' 'story'
+ 'shit' 'latest' 'combat' 'snake' 'protect' 'university' 'sense'
+ 'breaking' 'telling' 'safety' 'late' 'deadly' 'issue' 'fighting'
+ 'shortage' 'truth' 'stock' 'business' 'smartnews' 'politician'
+ 'ingrahamangle' 'child' 'long' 'response' 'useless' 'recovery' 'place'
+ 'politics']
+[0]10470
+['detroit' 'researcher' 'experience' 'ward' 'infectious' 'observational'
+ 'friday' 'seriously' 'chance' 'combination' 'macrolide' 'michigan'
+ 'interesting' 'treated' 'gateway' 'basically' 'credit' 'confirm' 'monday'
+ 'control' 'stephen' 'idea' 'prevent' 'include' 'promise' 'survey'
+ 'pretty' 'making' 'ingesting' 'liberal' 'pak' 'zelenko' 'healthy' 'mild'
+ 'touted' 'blame' 'diagnosed' 'dose' 'medical' 'lower' 'sulfate' 'needed'
+ 'hospitalized' 'higher' 'reveals' 'test' 'prescribe' 'dans' 'husband'
+ 'hoax']
+[8, 11, 5, 17, 10, 3, 1]5229
+['laura' 'dans' 'multiple' 'vous' 'corruption' 'est' 'ban' 'marseille'
+ 'vitamin' 'avec' 'traitement' 'save' 'pour' 'institute' 'evil' 'stephen'
+ 'journal' 'compared' 'contre' 'raise' 'oxygen' 'house' 'hoax' 'exactly'
+ 'inject' 'ingraham' 'decade' 'mais' 'nursing' 'inhibitor' 'happened'
+ 'weapon' 'promote' 'didier' 'obamagate' 'design' 'scientist' 'bright'
+ 'cell' 'adverse' 'distancing' 'block' 'zone' 'america' 'infectious'
+ 'apparent' 'friend' 'worse' 'prove' 'leader']
+[2]1004
+['rica' 'costa' 'controversial' 'rated' 'poll' 'backed' 'potent' 'neil'
+ 'versus' 'link' 'developed' 'watch' 'website' 'letter' 'halted'
+ 'complication' 'international' 'inhibitor' 'shortage' 'smartnews' 'blind'
+ 'global' 'standard' 'multinational' 'matter' 'released' 'lack' 'short'
+ 'azithromycine' 'clinical' 'concern' 'outcome' 'wilson' 'helping'
+ 'telling' 'confirmed' 'veteran' 'authority' 'pundit' 'host' 'healthcare'
+ 'nation' 'lied' 'stock' 'order' 'fake' 'news' 'covidiot' 'orange'
+ 'official']
+[16, 12, 4, 14, 6, 15, 13, 9, 7]3130
+
+五个主题：
+['trust' 'authority' 'history' 'covidiot' 'matter' 'released' 'nation'
+ 'short' 'prevents' 'country' 'proved' 'claim' 'lost' 'orange' 'statement'
+ 'illness' 'question' 'clorox' 'protect' 'hell' 'pharmaceutical' 'fear'
+ 'combat' 'story' 'stock' 'telling' 'fighting' 'child' 'smartnews' 'snake'
+ 'shortage' 'breaking' 'latest' 'politician' 'late' 'long' 'note' 'shit'
+ 'sense' 'deadly' 'force' 'ingrahamangle' 'business' 'truth' 'today'
+ 'place' 'huge' 'wonder' 'university' 'second']
+[0]10470
+['friday' 'monday' 'seriously' 'ward' 'hospitalized' 'macrolide' 'wrong'
+ 'antimalarial' 'review' 'control' 'touting' 'hate' 'combination' 'agree'
+ 'credit' 'amazing' 'risk' 'pretty' 'observational' 'include' 'viral'
+ 'food' 'touted' 'detroit' 'retrospective' 'list' 'reveals' 'potential'
+ 'treated' 'useless' 'issue' 'university' 'preventing' 'idea' 'hospital'
+ 'making' 'percent' 'live' 'large' 'safety' 'healthy' 'mild' 'linked'
+ 'promise' 'malarial' 'dying' 'fact' 'placebo' 'dumb' 'attempt']
+[1]2294
+['laura' 'multiple' 'corruption' 'dans' 'ban' 'est' 'vous' 'vitamin'
+ 'marseille' 'save' 'avec' 'compared' 'pour' 'journal' 'evil' 'contre'
+ 'oxygen' 'exactly' 'raise' 'traitement' 'house' 'stephen' 'happened'
+ 'decade' 'hoax' 'scientist' 'institute' 'inject' 'ingraham' 'weapon'
+ 'promote' 'obamagate' 'nursing' 'mais' 'design' 'bright' 'block'
+ 'america' 'friend' 'asked' 'adverse' 'cell' 'usage' 'leader' 'called'
+ 'prove' 'zone' 'administration' 'distancing' 'recommend']
+[2]1004
+['rica' 'costa' 'controversial' 'rated' 'backed' 'poll' 'potent' 'neil'
+ 'link' 'developed' 'smartnews' 'versus' 'letter' 'halted' 'watch'
+ 'shortage' 'website' 'global' 'complication' 'matter' 'released'
+ 'international' 'multinational' 'inhibitor' 'short' 'lack'
+ 'azithromycine' 'blind' 'concern' 'outcome' 'confirmed' 'telling'
+ 'wilson' 'stock' 'authority' 'nation' 'veteran' 'standard' 'healthcare'
+ 'covidiot' 'orange' 'lied' 'helping' 'curing' 'prevents' 'promoted'
+ 'pundit' 'lost' 'fighting' 'politician']
+[16, 12, 4, 14, 6, 15, 13, 9, 7]3130
+['detroit' 'korea' 'vladimir' 'experience' 'researcher' 'pak' 'cleaner'
+ 'zelenko' 'blame' 'prescribe' 'cavuto' 'traitement' 'michigan'
+ 'infectious' 'sulfate' 'chance' 'tank' 'democrat' 'confirm' 'interesting'
+ 'prevention' 'gateway' 'dans' 'issued' 'liberal' 'husband' 'basically'
+ 'dy' 'mass' 'update' 'killing' 'free' 'needed' 'anthony' 'ingesting'
+ 'observational' 'denying' 'stephen' 'caution' 'treated' 'option' 'wuhan'
+ 'remdesivir' 'survey' 'diagnosed' 'white' 'ward' 'lower' 'spain'
+ 'guideline']
+[8, 11, 5, 17, 10, 3]2935
+
+六个主题：
+['authority' 'trust' 'history' 'released' 'matter' 'covidiot' 'nation'
+ 'short' 'prevents' 'country' 'claim' 'proved' 'lost' 'orange' 'illness'
+ 'statement' 'clorox' 'question' 'protect' 'pharmaceutical' 'hell' 'fear'
+ 'story' 'stock' 'combat' 'smartnews' 'telling' 'fighting' 'child' 'snake'
+ 'shortage' 'latest' 'breaking' 'politician' 'late' 'note' 'long' 'shit'
+ 'sense' 'deadly' 'ingrahamangle' 'force' 'truth' 'business' 'today'
+ 'place' 'promoted' 'huge' 'university' 'wonder']
+[0]
+['friday' 'monday' 'hospitalized' 'seriously' 'macrolide' 'ward'
+ 'antimalarial' 'wrong' 'agree' 'touting' 'hate' 'review' 'credit' 'risk'
+ 'control' 'food' 'retrospective' 'combination' 'amazing' 'viral' 'pretty'
+ 'large' 'useless' 'touted' 'observational' 'potential' 'university'
+ 'issue' 'list' 'reveals' 'safety' 'live' 'include' 'nigerian'
+ 'preventing' 'fact' 'malarial' 'linked' 'hospital' 'percent' 'dumb'
+ 'largest' 'detroit' 'making' 'idea' 'treated' 'attempt' 'dying' 'healthy'
+ 'placebo']
+[1]
+['laura' 'multiple' 'corruption' 'dans' 'ban' 'est' 'vous' 'save'
+ 'compared' 'vitamin' 'marseille' 'avec' 'evil' 'contre' 'journal' 'pour'
+ 'exactly' 'oxygen' 'happened' 'scientist' 'decade' 'raise' 'hoax'
+ 'weapon' 'inject' 'house' 'promote' 'traitement' 'obamagate' 'ingraham'
+ 'stephen' 'nursing' 'institute' 'design' 'friend' 'bright' 'america'
+ 'asked' 'block' 'leader' 'usage' 'called' 'mais' 'adverse' 'cell' 'hand'
+ 'zone' 'recommend' 'sure' 'prove']
+[2]
+['rica' 'costa' 'controversial' 'rated' 'backed' 'poll' 'link' 'developed'
+ 'potent' 'smartnews' 'letter' 'neil' 'halted' 'shortage' 'global' 'watch'
+ 'matter' 'released' 'website' 'versus' 'complication' 'short'
+ 'multinational' 'international' 'lack' 'azithromycine' 'outcome'
+ 'confirmed' 'concern' 'stock' 'telling' 'blind' 'inhibitor' 'nation'
+ 'authority' 'wilson' 'healthcare' 'covidiot' 'veteran' 'orange'
+ 'prevents' 'curing' 'promoted' 'lost' 'lied' 'fighting' 'standard'
+ 'politician' 'helping' 'illness']
+[16, 12, 4, 14, 6, 15, 13, 9, 7]
+['detroit' 'experience' 'researcher' 'korea' 'blame' 'zelenko' 'michigan'
+ 'chance' 'prescribe' 'basically' 'issued' 'prevention' 'sulfate'
+ 'infectious' 'husband' 'tank' 'liberal' 'ingesting' 'gateway' 'vladimir'
+ 'democrat' 'killing' 'treated' 'cavuto' 'confirm' 'test' 'option' 'lower'
+ 'mass' 'caution' 'wuhan' 'traitement' 'remdesivir' 'cleaner'
+ 'interesting' 'denying' 'dose' 'prevent' 'promise' 'based' 'needed'
+ 'update' 'thing' 'free' 'idea' 'rate' 'problem' 'include' 'course'
+ 'sound']
+[17, 10, 3]
+['detroit' 'costa' 'korea' 'vladimir' 'rica' 'pak' 'cleaner' 'traitement'
+ 'dans' 'vous' 'cavuto' 'institute' 'researcher' 'experience' 'stephen'
+ 'prescribe' 'zelenko' 'inhibitor' 'infectious' 'interesting' 'blame'
+ 'clinical' 'didier' 'macrolide' 'confirm' 'sulfate' 'anthony' 'michigan'
+ 'est' 'democrat' 'guideline' 'tank' 'sars' 'rhythm' 'apparent' 'laura'
+ 'chance' 'associated' 'corruption' 'neil' 'multiple' 'dy' 'observational'
+ 'spain' 'gateway' 'prevention' 'marseille' 'analysis' 'versus' 'host']
+[8, 11, 5]
+
+七个主题：
+['trust' 'history' 'authority' 'covidiot' 'short' 'nation' 'country'
+ 'proved' 'prevents' 'released' 'matter' 'lost' 'claim' 'statement'
+ 'question' 'orange' 'clorox' 'illness' 'protect' 'pharmaceutical' 'hell'
+ 'fear' 'combat' 'story' 'stock' 'child' 'fighting' 'telling' 'smartnews'
+ 'snake' 'latest' 'late' 'breaking' 'note' 'politician' 'long' 'sense'
+ 'shortage' 'deadly' 'shit' 'ingrahamangle' 'force' 'today' 'truth'
+ 'place' 'business' 'wonder' 'huge' 'second' 'promoted']
+[0]
+['friday' 'monday' 'macrolide' 'hospitalized' 'seriously' 'ward' 'touting'
+ 'credit' 'wrong' 'combination' 'pretty' 'control' 'review' 'antimalarial'
+ 'viral' 'agree' 'hate' 'amazing' 'observational' 'retrospective'
+ 'detroit' 'potential' 'risk' 'food' 'preventing' 'include' 'useless'
+ 'touted' 'hospital' 'large' 'live' 'issue' 'healthy' 'mild' 'linked'
+ 'fact' 'stephen' 'idea' 'making' 'list' 'nigerian' 'dumb' 'malarial'
+ 'safety' 'attempt' 'percent' 'university' 'recovery' 'hoax' 'member']
+[1]
+['laura' 'multiple' 'dans' 'corruption' 'ban' 'est' 'save' 'vitamin'
+ 'compared' 'vous' 'evil' 'journal' 'marseille' 'avec' 'contre' 'exactly'
+ 'oxygen' 'pour' 'hoax' 'inject' 'stephen' 'happened' 'traitement'
+ 'decade' 'weapon' 'promote' 'ingraham' 'raise' 'obamagate' 'house'
+ 'scientist' 'nursing' 'institute' 'block' 'america' 'bright' 'design'
+ 'friend' 'adverse' 'asked' 'cell' 'called' 'leader' 'mais' 'recommend'
+ 'usage' 'hand' 'administration' 'worse' 'prove']
+[2]
+['poll' 'released' 'halted' 'matter' 'stake' 'international'
+ 'complication' 'standard' 'helping' 'link' 'orange' 'website' 'authority'
+ 'shortage' 'developed' 'rhythm' 'university' 'nation' 'lack' 'banned'
+ 'safety' 'backed' 'reveals' 'antimalarial' 'watch' 'agree' 'smartnews'
+ 'prevents' 'versus' 'food' 'group' 'claim' 'history' 'risk' 'caution'
+ 'heart' 'stage' 'large' 'veteran' 'benefit' 'letter' 'small' 'useless'
+ 'list' 'death' 'shit' 'issue' 'hate' 'turn' 'rated']
+[16, 12, 4]1218
+['costa' 'rica' 'controversial' 'neil' 'potent' 'inhibitor' 'rated'
+ 'backed' 'wilson' 'confirmed' 'letter' 'smartnews' 'lied' 'global'
+ 'multinational' 'azithromycine' 'developed' 'healthcare' 'blind' 'short'
+ 'host' 'link' 'outcome' 'watch' 'stock' 'order' 'africa' 'shortage'
+ 'msnbc' 'fake' 'concern' 'pundit' 'rita' 'curing' 'shut' 'telling'
+ 'versus' 'mask' 'completely' 'lack' 'halted' 'website' 'poll' 'covidiot'
+ 'antiviral' 'quinine' 'wwg' 'knew' 'fighting' 'lost']
+[14, 6, 15, 13, 9, 7]1912
+['detroit' 'experience' 'researcher' 'korea' 'blame' 'zelenko' 'michigan'
+ 'chance' 'prescribe' 'basically' 'issued' 'prevention' 'infectious'
+ 'sulfate' 'husband' 'tank' 'liberal' 'ingesting' 'gateway' 'vladimir'
+ 'democrat' 'killing' 'treated' 'cavuto' 'confirm' 'option' 'test' 'lower'
+ 'mass' 'wuhan' 'traitement' 'caution' 'interesting' 'cleaner'
+ 'remdesivir' 'denying' 'dose' 'prevent' 'promise' 'based' 'needed'
+ 'update' 'thing' 'idea' 'free' 'rate' 'problem' 'course' 'include'
+ 'higher']
+[17, 10, 3]
+['detroit' 'korea' 'vladimir' 'pak' 'costa' 'rica' 'traitement' 'cleaner'
+ 'dans' 'researcher' 'vous' 'stephen' 'cavuto' 'institute' 'experience'
+ 'infectious' 'prescribe' 'zelenko' 'interesting' 'macrolide' 'blame'
+ 'confirm' 'sulfate' 'didier' 'michigan' 'clinical' 'anthony' 'inhibitor'
+ 'tank' 'democrat' 'est' 'chance' 'observational' 'rhythm' 'laura'
+ 'guideline' 'multiple' 'apparent' 'gateway' 'corruption' 'sars' 'spain'
+ 'associated' 'prevention' 'credit' 'analysis' 'dy' 'liberal' 'update'
+ 'needed']
+[8, 11, 5]
