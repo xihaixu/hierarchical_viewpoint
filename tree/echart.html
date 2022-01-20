@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>viewpoint tree</title>
+	<script src="echarts.min.js" type="text/javascript"></script>
+	<script src="jquery.min.js" type="text/javascript"></script>
+<script>
+	$(document).ready(function () {		
+var chartDom = document.getElementById('stackDiagram');
+var myChart = echarts.init(chartDom);
+
+myChart.showLoading();
+$.getJSON('flare.json', function (data) {
+  myChart.hideLoading();
+  data.children.forEach(function (datum, index) {
+    index % 2 === 0 && (datum.collapsed = true);
+  });
+  myChart.setOption(
+    (option = {
+      tooltip: {
+        trigger: 'item',
+        triggerOn: 'mousemove'
+      },
+      series: [
+        {
+          type: 'tree',
+          data: [data],
+          top: '1%',
+          left: '25%',
+          bottom: '1%',
+          right: '50%',
+          symbolSize: 7,
+          label: {
+            position: 'left',
+            verticalAlign: 'middle',
+            align: 'right',
+            fontSize: 14
+          },
+          leaves: {
+            label: {
+              position: 'right',
+              verticalAlign: 'middle',
+              align: 'left'
+            }
+          },
+          emphasis: {
+            focus: 'descendant'
+          },
+          expandAndCollapse: true,
+          animationDuration: 550,
+          animationDurationUpdate: 750
+        }
+      ]
+    })
+  );
+});
+	})
+	
+
+</script>
+</head>
+
+<body>
+	<div id="stackDiagram" class="echarts" style="height:600px;"></div>
+</body>
+</html>
