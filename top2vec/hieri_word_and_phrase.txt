@@ -1,0 +1,107 @@
+一个主题：
+0：['risk' 'patient' 'azithromycin' 'study' 'wrong' 'evidence' 'thing'
+ 'effective' 'man' 'nan' 'life' 'zinc' 'proof' 'treatment' 'news' 'effect'
+ 'vaccine' 'approved' 'fact' 'virus' 'inhibitor' 'people' 'help'
+ 'dangerous' 'trump_says' 'doctor' 'truth' 'safe' 'rate' 'trump' 'benefit'
+ 'death' 'president' 'fauci' 'kill' 'work' 'cure' 'study_finds' 'trial'
+ 'covid' 'lose' 'associated' 'drug']
+[29, 1, 3, 28, 43, 41, 15, 36, 17, 44, 53, 45, 9, 11, 42, 4, 6, 31, 14, 18, 22, 46, 32, 34, 7, 25, 30, 26, 50, 8, 12, 2, 24, 19, 16, 21, 38, 20, 5, 48, 49, 13, 40, 47, 51, 23, 27, 10, 39, 52, 33, 0, 37, 35]
+
+两个主题：
+1：['effective' 'people' 'trump_says' 'virus' 'study' 'evidence' 'rate'
+ 'approved' 'wrong' 'dangerous' 'proof' 'death' 'drug' 'thing' 'vaccine'
+ 'patient' 'zinc' 'risk' 'fact' 'news' 'trump' 'inhibitor' 'cure' 'man'
+ 'nan' 'lose' 'kill' 'trial' 'fauci' 'life' 'benefit' 'work' 'truth'
+ 'associated' 'president' 'effect' 'help' 'safe' 'doctor' 'treatment'
+ 'azithromycin' 'study_finds' 'covid']
+[18, 22, 46, 32, 34, 7, 25, 30, 26, 50, 8, 12, 2, 24, 19, 16, 21, 38, 20, 5, 48, 49, 13, 40, 47, 51, 23, 27, 10, 39, 52, 33, 0, 37, 35]
+12146
+2: ['study_finds' 'covid' 'azithromycin' 'treatment' 'doctor' 'safe' 'help'
+ 'effect' 'president' 'truth' 'life' 'work' 'benefit' 'associated' 'fauci'
+ 'nan' 'man' 'risk' 'trial' 'patient' 'kill' 'news' 'inhibitor' 'zinc'
+ 'fact' 'cure' 'thing' 'trump' 'vaccine' 'lose' 'proof' 'wrong' 'death'
+ 'evidence' 'dangerous' 'approved' 'study' 'drug' 'rate' 'virus'
+ 'trump_says' 'people' 'effective']
+[29, 1, 3, 28, 43, 41, 15, 36, 17, 44, 53, 45, 9, 11, 42, 4, 6, 31, 14]：6642
+
+三个主题：
+1-1: ['effective' 'trump_says' 'fact' 'risk' 'cure' 'drug' 'inhibitor'
+ 'patient' 'trial' 'news' 'zinc' 'evidence' 'life' 'virus' 'rate'
+ 'president' 'wrong' 'trump' 'study' 'vaccine' 'dangerous' 'lose' 'people'
+ 'truth' 'death' 'benefit' 'nan' 'help' 'thing' 'effect' 'work' 'approved'
+ 'proof' 'man' 'kill' 'associated' 'covid' 'study_finds' 'fauci'
+ 'treatment' 'safe' 'azithromycin' 'doctor']
+[16, 21, 38, 20, 5, 48, 49, 13, 40, 47, 51, 23, 27, 10, 39, 52, 33, 0, 37, 35]
+6885
+1-2:['people' 'approved' 'fauci' 'proof' 'study' 'virus' 'doctor' 'death'
+ 'azithromycin' 'dangerous' 'wrong' 'treatment' 'rate' 'man' 'thing'
+ 'safe' 'kill' 'evidence' 'vaccine' 'nan' 'effective' 'trump' 'associated'
+ 'benefit' 'lose' 'trump_says' 'work' 'patient' 'drug' 'zinc' 'effect'
+ 'inhibitor' 'news' 'study_finds' 'truth' 'help' 'covid' 'life' 'cure'
+ 'risk' 'president' 'fact' 'trial']
+[18, 22, 46, 32, 34, 7, 25, 30, 26, 50, 8, 12, 2, 24, 19]
+5261
+
+四个主题：
+2-1:['covid' 'associated' 'dangerous' 'safe' 'study_finds' 'treatment'
+ 'effect' 'azithromycin' 'fact' 'cure' 'doctor' 'proof' 'trump' 'truth'
+ 'risk' 'help' 'kill' 'president' 'work' 'effective' 'fauci' 'study'
+ 'zinc' 'thing' 'rate' 'vaccine' 'approved' 'life' 'lose' 'news' 'wrong'
+ 'evidence' 'patient' 'nan' 'man' 'inhibitor' 'benefit' 'virus' 'trial'
+ 'death' 'drug' 'trump_says' 'people']
+[28, 43, 41, 15, 36, 17, 44, 53, 45, 9, 11, 42, 4, 6, 31, 14]:5548
+2-2:['nan' 'life' 'trial' 'man' 'azithromycin' 'help' 'doctor' 'benefit'
+ 'study_finds' 'treatment' 'inhibitor' 'president' 'news' 'people' 'work'
+ 'patient' 'safe' 'fauci' 'covid' 'death' 'drug' 'truth' 'trump_says'
+ 'vaccine' 'lose' 'zinc' 'thing' 'risk' 'evidence' 'effect' 'kill' 'wrong'
+ 'virus' 'cure' 'approved' 'trump' 'rate' 'study' 'associated' 'proof'
+ 'fact' 'dangerous' 'effective']
+[29, 1, 3]:1094
+
+五个主题：
+2-1-1：['effect' 'dangerous' 'azithromycin' 'safe' 'truth' 'fact' 'associated'
+ 'work' 'doctor' 'president' 'fauci' 'life' 'proof' 'approved'
+ 'study_finds' 'thing' 'help' 'inhibitor' 'rate' 'news' 'patient' 'trump'
+ 'covid' 'treatment' 'virus' 'cure' 'wrong' 'nan' 'vaccine' 'zinc' 'lose'
+ 'study' 'risk' 'man' 'evidence' 'death' 'trial' 'benefit' 'kill' 'drug'
+ 'people' 'effective' 'trump_says']
+[28, 43, 41, 15, 36, 17, 44, 53, 45, 9]:3411
+2-1-2：['covid' 'treatment' 'effective' 'study_finds' 'kill' 'associated' 'risk'
+ 'trump' 'cure' 'fact' 'safe' 'zinc' 'proof' 'doctor' 'study' 'dangerous'
+ 'benefit' 'vaccine' 'azithromycin' 'help' 'effect' 'lose' 'president'
+ 'death' 'evidence' 'fauci' 'work' 'approved' 'wrong' 'rate' 'man' 'thing'
+ 'trial' 'life' 'patient' 'news' 'nan' 'truth' 'drug' 'trump_says' 'virus'
+ 'inhibitor' 'people']
+[11, 42, 4, 6, 31, 14]:2137
+
+六个主题：
+1-1-1：['trump_says' 'drug' 'effective' 'zinc' 'nan' 'life' 'patient' 'risk'
+ 'rate' 'cure' 'dangerous' 'inhibitor' 'wrong' 'fact' 'approved' 'study'
+ 'people' 'thing' 'benefit' 'lose' 'evidence' 'death' 'president' 'virus'
+ 'help' 'news' 'man' 'associated' 'trump' 'trial' 'vaccine' 'work' 'kill'
+ 'proof' 'truth' 'study_finds' 'effect' 'doctor' 'covid' 'treatment'
+ 'azithromycin' 'safe' 'fauci']
+[48, 49, 13, 40, 47, 51, 23, 27, 10, 39, 52, 33, 0, 37, 35]:5114
+1-1-2:['effective' 'trial' 'fact' 'news' 'virus' 'truth' 'risk' 'vaccine'
+ 'trump_says' 'fauci' 'evidence' 'inhibitor' 'patient' 'cure' 'trump'
+ 'effect' 'proof' 'president' 'people' 'life' 'lose' 'wrong' 'study'
+ 'zinc' 'kill' 'rate' 'help' 'work' 'death' 'benefit' 'man' 'drug' 'thing'
+ 'dangerous' 'safe' 'covid' 'approved' 'nan' 'associated' 'treatment'
+ 'study_finds' 'azithromycin' 'doctor']
+[16, 21, 38, 20, 5]:1771
+
+七个主题：
+1-2-1：['virus' 'doctor' 'azithromycin' 'kill' 'treatment' 'dangerous'
+ 'inhibitor' 'nan' 'fauci' 'trump_says' 'wrong' 'man' 'thing' 'people'
+ 'rate' 'death' 'proof' 'evidence' 'study' 'vaccine' 'approved' 'safe'
+ 'effective' 'benefit' 'cure' 'drug' 'zinc' 'lose' 'trial' 'news' 'life'
+ 'truth' 'risk' 'associated' 'patient' 'covid' 'effect' 'trump'
+ 'president' 'help' 'work' 'fact' 'study_finds']
+[46, 32, 34, 7, 25, 30, 26, 50, 8, 12, 2, 24, 19]
+1-2-2：['people' 'approved' 'study_finds' 'proof' 'study' 'work' 'trump' 'fauci'
+ 'death' 'associated' 'thing' 'rate' 'wrong' 'fact' 'patient' 'effective'
+ 'lose' 'man' 'evidence' 'safe' 'azithromycin' 'effect' 'benefit' 'drug'
+ 'dangerous' 'doctor' 'zinc' 'virus' 'help' 'vaccine' 'treatment' 'news'
+ 'nan' 'truth' 'president' 'covid' 'kill' 'trump_says' 'risk' 'cure'
+ 'life' 'trial' 'inhibitor']
+[18, 22]：710
