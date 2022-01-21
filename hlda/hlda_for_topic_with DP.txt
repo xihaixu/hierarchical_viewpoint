@@ -1,10 +1,10 @@
-child of topic #-1 - Level: 0, number of documents:17326
+child of topic #-1 - Level: 0, number of documents:19833
 Top 10 words of global topic #0
 [('patient', 0.04662900045514107), ('treatment', 0.04001156985759735), ('doctor', 0.03756066784262657), ('drug', 0.03382304310798645), ('trump', 0.033026501536369324), ('people', 0.03131087124347687), ('study', 0.028124699369072914), ('work', 0.027511974796652794), ('cure', 0.021078359335660934), ('news', 0.020526906475424767), ('death', 0.017769644036889076), ('virus', 0.016728011891245842), ('rate', 0.015931468456983566), ('life', 0.015625104308128357), ('case', 0.015196196734905243)]
-child of topic #0 - Level: 1, number of documents:10609
+child of topic #0 - Level: 1, number of documents:13373
 Top 10 words of global topic #8
 [('study', 0.10155004262924194), ('patient', 0.05690905079245567), ('drug', 0.054000429809093475), ('risk', 0.03604286164045334), ('trump', 0.03364009037613869), ('trial', 0.030984390527009964), ('cure', 0.030225619673728943), ('evidence', 0.02959331125020981), ('treatment', 0.025167150422930717), ('doctor', 0.02339668571949005), ('work', 0.020488066598773003), ('effective', 0.019982218742370605), ('treat', 0.01821175403892994), ('benefit', 0.018085293471813202), ('help', 0.016820676624774933)]
-child of topic #0 - Level: 1, number of documents:3392
+child of topic #0 - Level: 1, number of documents:4276
 Top 10 words of global topic #9
 [('trump', 0.2751166820526123), ('drug', 0.06359376758337021), ('prevent', 0.0485796183347702), ('president', 0.048138026148080826), ('warning', 0.04195572808384895), ('life', 0.037981390953063965), ('expert', 0.03709820657968521), ('news', 0.035331834107637405), ('cure', 0.02826635167002678), ('raoult', 0.027824757620692253), ('pour', 0.02694157138466835), ('fight', 0.023408830165863037), ('miracle', 0.022525643929839134), ('game', 0.02164245955646038), ('changer', 0.021200865507125854)]
 child of topic #0 - Level: 1, number of documents:419
@@ -16,28 +16,28 @@ Top 10 words of global topic #11
 child of topic #0 - Level: 1, number of documents:135
 Top 10 words of global topic #12
 [('state', 0.2880769968032837), ('rate', 0.22224965691566467), ('governor', 0.15642228722572327), ('patient', 0.12350860238075256), ('prescribe', 0.05768123269081116), ('ventilator', 0.041224390268325806), ('lockdown', 0.03299596905708313), ('fauci', 0.01653912663459778), ('group', 0.01653912663459778), ('post', 0.01653912663459778), ('case', 0.008310705423355103), ('wonder', 0.008310705423355103), ('effective', 8.228421211242676e-05), ('work', 8.228421211242676e-05), ('virus', 8.228421211242676e-05)]
-child of topic #0 - Level: 1, number of documents:866
+child of topic #0 - Level: 1, number of documents:1091
 Top 10 words of global topic #13
 [('cure', 0.3055843710899353), ('zinc', 0.1175445094704628), ('virus', 0.08032828569412231), ('vaccine', 0.07836953550577164), ('help', 0.047029558569192886), ('azithromycin', 0.047029558569192886), ('miracle', 0.04507080838084221), ('day', 0.04115331172943115), ('fauci', 0.03527706488966942), ('china', 0.03527706488966942), ('work', 0.03135956823825836), ('symptom', 0.029400819912552834), ('reason', 0.015689577907323837), ('prescription', 0.015689577907323837), ('proven', 0.013730829581618309)]
 child of topic #0 - Level: 1, number of documents:247
 Top 10 words of global topic #14
 [('science', 0.1855974793434143), ('treatment', 0.14436885714530945), ('democrat', 0.09626881033182144), ('governor', 0.0893973782658577), ('listen', 0.0893973782658577), ('state', 0.06878307461738586), ('effective', 0.06878307461738586), ('medium', 0.06191163510084152), ('fauci', 0.06191163510084152), ('expert', 0.05504019930958748), ('wait', 0.04129732772707939), ('year', 0.013811585493385792), ('inhibitor', 0.006940149702131748), ('cured', 0.006940149702131748), ('doctor', 6.871435471111909e-05)]
-child of topic #0 - Level: 1, number of documents:867
+child of topic #0 - Level: 1, number of documents:1092
 Top 10 words of global topic #15
 [('effective', 0.2768974304199219), ('treating', 0.1160084456205368), ('safe', 0.11226683855056763), ('study', 0.082334004342556), ('trump', 0.07110919058322906), ('time', 0.05801358073949814), ('proven', 0.046788766980171204), ('read', 0.029951544478535652), ('medicine', 0.028080742806196213), ('trial', 0.028080742806196213), ('phosphate', 0.024339137598872185), ('malaria', 0.020597534254193306), ('success', 0.016855929046869278), ('question', 0.016855929046869278), ('expert', 0.013114324770867825)]
-child of topic #8 - Level: 2, number of documents:2703
+child of topic #8 - Level: 2, number of documents:3094
 Top 10 words of global topic #16
 [('doctor', 0.1509455293416977), ('trump', 0.13343940675258636), ('treatment', 0.11904548853635788), ('therapy', 0.04551979526877403), ('rated', 0.042018573731184006), ('survey', 0.03462710231542587), ('president', 0.028402702882885933), ('prevent', 0.02645757980644703), ('physician', 0.025290504097938538), ('evidence', 0.025290504097938538), ('treat', 0.02178928069770336), ('prescribe', 0.02140025421977043), ('drug', 0.02101122960448265), ('advice', 0.017899030819535255), ('prescription', 0.017510006204247475)]
-child of topic #8 - Level: 2, number of documents:5327
+child of topic #8 - Level: 2, number of documents:6098
 Top 10 words of global topic #17
 [('trump', 0.16313399374485016), ('drug', 0.07055048644542694), ('people', 0.06388447433710098), ('cure', 0.06110696867108345), ('kill', 0.03425775095820427), ('work', 0.023888396099209785), ('treatment', 0.02296256273984909), ('year', 0.020555391907691956), ('virus', 0.01981472223997116), ('died', 0.01981472223997116), ('news', 0.01814821921288967), ('woman', 0.017407551407814026), ('going', 0.015741048380732536), ('president', 0.015370714478194714), ('malaria', 0.014630046673119068)]
-child of topic #9 - Level: 2, number of documents:2787
+child of topic #9 - Level: 2, number of documents:3652
 Top 10 words of global topic #18
 [('study', 0.24542877078056335), ('patient', 0.1506412923336029), ('treatment', 0.08259882777929306), ('benefit', 0.07433933764696121), ('risk', 0.07079955190420151), ('evidence', 0.06843969970941544), ('help', 0.03776159882545471), ('analysis', 0.027928873896598816), ('rate', 0.022815855219960213), ('associated', 0.02202923782169819), ('trial', 0.02045600116252899), ('data', 0.019669383764266968), ('drug', 0.019276075065135956), ('harm', 0.015342984348535538), ('death', 0.014163057319819927)]
-child of topic #8 - Level: 2, number of documents:1414
+child of topic #8 - Level: 2, number of documents:1619
 Top 10 words of global topic #19
 [('effective', 0.22743232548236847), ('treatment', 0.10603673756122589), ('treating', 0.0899018868803978), ('study', 0.06608376652002335), ('phosphate', 0.0645471066236496), ('remdesivir', 0.06224213168025017), ('drug', 0.05840049684047699), ('trial', 0.04687559977173805), ('proven', 0.04149731248617172), ('china', 0.03304572030901909), ('patient', 0.028435762971639633), ('efficacy', 0.024594129994511604), ('safe', 0.02382580377161503), ('expert', 0.022289151325821877), ('news', 0.01767919212579727)]
-child of topic #8 - Level: 2, number of documents:716
+child of topic #8 - Level: 2, number of documents:820
 Top 10 words of global topic #20
 [('treatment', 0.2653847634792328), ('azithromycin', 0.18829406797885895), ('zinc', 0.14974871277809143), ('patient', 0.08600061386823654), ('trial', 0.06228039786219597), ('france', 0.05338531360030174), ('combination', 0.041525207459926605), ('raoult', 0.03411263972520828), ('day', 0.0237350445240736), ('reason', 0.016322476789355278), ('cured', 0.016322476789355278), ('researcher', 0.014839962124824524), ('associated', 0.013357448391616344), ('evidence', 0.008909907191991806), ('cure', 0.007427393924444914)]
 child of topic #10 - Level: 2, number of documents:103
@@ -67,7 +67,7 @@ Top 10 words of global topic #28
 child of topic #14 - Level: 2, number of documents:93
 Top 10 words of global topic #29
 [('kill', 0.3954591453075409), ('virus', 0.32768553495407104), ('lying', 0.09047780930995941), ('mask', 0.0791822001338005), ('study', 0.03399977460503578), ('sure', 0.022704169154167175), ('knew', 0.022704169154167175), ('better', 0.01140856184065342), ('patient', 0.00011295606236672029), ('cure', 0.00011295606236672029), ('doctor', 0.00011295606236672029), ('people', 0.00011295606236672029), ('effective', 0.00011295606236672029), ('work', 0.00011295606236672029), ('evidence', 0.00011295606236672029)]
-child of topic #13 - Level: 2, number of documents:786
+child of topic #13 - Level: 2, number of documents:900
 Top 10 words of global topic #30
 [('cure', 0.48188549280166626), ('virus', 0.23651573061943054), ('thought', 0.05914001911878586), ('china', 0.0532274954020977), ('phosphate', 0.03696805611252785), ('news', 0.02366487681865692), ('cured', 0.02366487681865692), ('doctor', 0.022186746820807457), ('knew', 0.022186746820807457), ('wait', 0.017752353101968765), ('wonder', 0.011839829385280609), ('breaking', 0.007405436597764492), ('infection', 0.0014929122989997268), ('patient', 1.4781309801037423e-05), ('people', 1.4781309801037423e-05)]
 child of topic #15 - Level: 2, number of documents:220
@@ -76,7 +76,7 @@ Top 10 words of global topic #31
 child of topic #10 - Level: 2, number of documents:13
 Top 10 words of global topic #32
 [('vaccine', 0.5873388648033142), ('chance', 0.11840563267469406), ('lockdown', 0.11840563267469406), ('treatment', 0.001172332908026874), ('drug', 0.001172332908026874), ('patient', 0.001172332908026874), ('cure', 0.001172332908026874), ('doctor', 0.001172332908026874), ('people', 0.001172332908026874), ('effective', 0.001172332908026874), ('work', 0.001172332908026874), ('virus', 0.001172332908026874), ('evidence', 0.001172332908026874), ('news', 0.001172332908026874), ('treat', 0.001172332908026874)]
-child of topic #9 - Level: 2, number of documents:547
+child of topic #9 - Level: 2, number of documents:626
 Top 10 words of global topic #33
 [('infection', 0.32192474603652954), ('inhibitor', 0.3126745820045471), ('knew', 0.07586997002363205), ('fauci', 0.0684698298573494), ('published', 0.0684698298573494), ('study', 0.0629197210073471), ('article', 0.03701921924948692), ('effective', 0.014818788506090641), ('treatment', 0.014818788506090641), ('post', 0.011118716560304165), ('data', 0.0037185722030699253), ('truth', 0.0037185722030699253), ('reported', 0.001868536346592009), ('people', 1.850035914685577e-05), ('work', 1.850035914685577e-05)]
 child of topic #14 - Level: 2, number of documents:154
