@@ -1,13 +1,13 @@
-child of topic #-1 - Level: 0, number of documents:12833
+child of topic #-1 - Level: 0, number of documents:19833
 Top 10 words of global topic #0
 [('cure', 0.07480444014072418), ('treatment', 0.06384293735027313), ('trump', 0.05408599227666855), ('drug', 0.04661771282553673), ('china', 0.046376802027225494), ('study', 0.04613588750362396), ('work', 0.03553575277328491), ('effective', 0.03517438471317291), ('treat', 0.028910664841532707), ('virus', 0.02782656066119671), ('people', 0.02397196553647518), ('vaccine', 0.023249229416251183), ('phosphate', 0.020840108394622803), ('news', 0.020358283072710037), ('safe', 0.02023782767355442)]
-child of topic #0 - Level: 1, number of documents:11281
+child of topic #0 - Level: 1, number of documents:18171
 Top 10 words of global topic #8
 [('study', 0.1118290051817894), ('patient', 0.08398944139480591), ('doctor', 0.0641263872385025), ('evidence', 0.05442946404218674), ('trump', 0.052239835262298584), ('people', 0.04457613825798035), ('drug', 0.03441000357270241), ('cure', 0.033471591770648956), ('work', 0.033471591770648956), ('help', 0.02674630656838417), ('rate', 0.02580789476633072), ('death', 0.021585039794445038), ('risk', 0.02080303058028221), ('benefit', 0.020646627992391586), ('treatment', 0.020021019503474236)]
-child of topic #0 - Level: 1, number of documents:517
+child of topic #0 - Level: 1, number of documents:833
 Top 10 words of global topic #9
 [('zinc', 0.4970645010471344), ('azithromycin', 0.16015076637268066), ('fight', 0.07675629109144211), ('help', 0.06674894690513611), ('doctor', 0.056741610169410706), ('kill', 0.03339115530252457), ('virus', 0.030055373907089233), ('update', 0.023383814841508865), ('day', 0.02004803530871868), ('effective', 0.016712255775928497), ('france', 0.01004069671034813), ('approved', 0.006704916711896658), ('study', 3.335779547342099e-05), ('treatment', 3.335779547342099e-05), ('cure', 3.335779547342099e-05)]
-child of topic #0 - Level: 1, number of documents:247
+child of topic #0 - Level: 1, number of documents:398
 Top 10 words of global topic #10
 [('fauci', 0.5360466837882996), ('knew', 0.2238779515028), ('people', 0.1001884788274765), ('treatment', 0.05895865336060524), ('approved', 0.04717870429158211), ('going', 0.023618802428245544), ('zinc', 0.0059488750994205475), ('study', 5.8899750001728535e-05), ('cure', 5.8899750001728535e-05), ('drug', 5.8899750001728535e-05), ('patient', 5.8899750001728535e-05), ('doctor', 5.8899750001728535e-05), ('work', 5.8899750001728535e-05), ('news', 5.8899750001728535e-05), ('president', 5.8899750001728535e-05)]
 child of topic #0 - Level: 1, number of documents:167
@@ -19,19 +19,19 @@ Top 10 words of global topic #12
 child of topic #0 - Level: 1, number of documents:60
 Top 10 words of global topic #13
 [('remdesivir', 0.6538462042808533), ('effective', 0.32704877853393555), ('trump', 0.0002513826184440404), ('study', 0.0002513826184440404), ('treatment', 0.0002513826184440404), ('cure', 0.0002513826184440404), ('drug', 0.0002513826184440404), ('patient', 0.0002513826184440404), ('doctor', 0.0002513826184440404), ('work', 0.0002513826184440404), ('people', 0.0002513826184440404), ('news', 0.0002513826184440404), ('president', 0.0002513826184440404), ('evidence', 0.0002513826184440404), ('fauci', 0.0002513826184440404)]
-child of topic #0 - Level: 1, number of documents:268
+child of topic #0 - Level: 1, number of documents:431
 Top 10 words of global topic #14
 [('work', 0.5008120536804199), ('fauci', 0.18953850865364075), ('fact', 0.10833671689033508), ('zinc', 0.06096900999546051), ('medium', 0.06096900999546051), ('science', 0.020368114113807678), ('approved', 0.013601299375295639), ('fight', 0.013601299375295639), ('dangerous', 0.013601299375295639), ('people', 0.006834483705461025), ('save', 0.006834483705461025), ('drug', 6.766815204173326e-05), ('patient', 6.766815204173326e-05), ('doctor', 6.766815204173326e-05), ('news', 6.766815204173326e-05)]
 child of topic #0 - Level: 1, number of documents:96
 Top 10 words of global topic #15
 [('expert', 0.30494803190231323), ('thing', 0.23323772847652435), ('drug', 0.1794550120830536), ('time', 0.16152743995189667), ('fauci', 0.1077447161078453), ('treatment', 0.00017927572480402887), ('cure', 0.00017927572480402887), ('patient', 0.00017927572480402887), ('doctor', 0.00017927572480402887), ('work', 0.00017927572480402887), ('people', 0.00017927572480402887), ('news', 0.00017927572480402887), ('president', 0.00017927572480402887), ('evidence', 0.00017927572480402887), ('zinc', 0.00017927572480402887)]
-child of topic #8 - Level: 2, number of documents:9907
+child of topic #8 - Level: 2, number of documents:15311
 Top 10 words of global topic #16
 [('trump', 0.29127880930900574), ('president', 0.060966745018959045), ('drug', 0.05633198097348213), ('news', 0.05490589886903763), ('doctor', 0.04973635822534561), ('treatment', 0.036545105278491974), ('patient', 0.032979901880025864), ('taking__hydroxychloroquine', 0.030662521719932556), ('study', 0.023888636380434036), ('prevent', 0.02228429727256298), ('report', 0.018006054684519768), ('update', 0.016579974442720413), ('warning', 0.01568867266178131), ('expert', 0.014797372743487358), ('risk', 0.014440852217376232)]
-child of topic #8 - Level: 2, number of documents:1207
+child of topic #8 - Level: 2, number of documents:1865
 Top 10 words of global topic #17
 [('life', 0.19344274699687958), ('trump', 0.1685733199119568), ('save', 0.1409406214952469), ('saved', 0.10778136551380157), ('fight', 0.07738538831472397), ('india', 0.06080576404929161), ('treatment', 0.053897589445114136), ('democrat', 0.03455469757318497), ('drug', 0.029028156772255898), ('help', 0.027646521106362343), ('china', 0.024883251637220383), ('country', 0.02073834463953972), ('going', 0.019356710836291313), ('president', 0.01797507517039776), ('time', 0.015211804769933224)]
-child of topic #9 - Level: 2, number of documents:246
+child of topic #9 - Level: 2, number of documents:380
 Top 10 words of global topic #18
 [('fauci', 0.4392200708389282), ('knew', 0.22256703674793243), ('inhibitor__infection', 0.187434121966362), ('trump', 0.04104696214199066), ('people', 0.035191476345062256), ('fact', 0.035191476345062256), ('benefit', 0.01762501522898674), ('read', 0.01176952850073576), ('time', 0.005914041306823492), ('drug', 5.855486597283743e-05), ('patient', 5.855486597283743e-05), ('doctor', 5.855486597283743e-05), ('work', 5.855486597283743e-05), ('news', 5.855486597283743e-05), ('president', 5.855486597283743e-05)]
 child of topic #8 - Level: 2, number of documents:80
